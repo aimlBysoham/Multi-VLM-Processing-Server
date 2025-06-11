@@ -1,0 +1,15 @@
+accelerate
+blobfile
+fastapi
+pillow
+python-dotenv
+pymongo
+qwen-vl-utils
+tiktoken
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.51.3
+uvicorn
+vllm>0.7.2
+numpy
+opencv-python
