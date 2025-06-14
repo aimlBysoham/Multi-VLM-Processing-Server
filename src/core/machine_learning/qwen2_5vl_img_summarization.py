@@ -11,7 +11,7 @@ class QwenModelProcessor:
         self.model_name = model_name
         self.model = None
         self.processor = None
-        self.load_model()
+        
 
     def load_model(self):
         """Load the processor and model."""

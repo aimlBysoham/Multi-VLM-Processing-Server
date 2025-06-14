@@ -11,8 +11,7 @@ class SmolVlmModelProcessor:
         self.model_name = model_name
         self.processor = None
         self.model = None
-        self.load_model()
-
+        
 
     def load_model(self):
         """Load the processor and model."""
